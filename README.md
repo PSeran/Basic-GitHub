@@ -1,2 +1,2 @@
 # Basic-GitHub
-gitHub options
+actions
